@@ -11,11 +11,11 @@ this project uses the method of upload PDF only
   implementation 'com.squareup.retrofit2:retrofit:2.6.2'
   ```
   
-- [Upload Server](https://github.com/the-blue-alliance/spectrum)
+- [Upload Server](https://github.com/gotev/android-upload-service)
 
   ```
-  implementation 'com.thebluealliance:spectrum:0.7.1'
+  implementation 'net.gotev:uploadservice:2.1'
   ```
 ### Restful Api
-- Github [Link MyNotesApp-Restful](http://www.google.com) - Native PHP
+- Github [Link MyUploadPDFApp-Native-Restful](http://www.google.com) - Native PHP
 
