@@ -1,5 +1,5 @@
 # MyUploadPDFApp Retrofit 
-this project uses the method of upload PDF only
+This project uses the method of upload PDF only
 
 ### Android Version :
 - Support AndroidX
